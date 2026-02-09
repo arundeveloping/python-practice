@@ -15,9 +15,9 @@ CONFIG_PATH = os.path.join(CONTENT_DIR, CONFIG_NAME)
 
 # DB Config
 DB_CONFIG = {
-    "host": "localhost",
+    "host": "",
     "user": "root",
-    "password": "your_password",
+    "password": "root",
     "database": "question_bank"
 }
 
